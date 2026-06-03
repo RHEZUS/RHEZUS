@@ -66,5 +66,5 @@ My goal is to create products and systems that are scalable, useful, and impactf
 ## Connect With Me
 
 * LinkedIn: [https://www.linkedin.com/in/ludivin-seunda-1593641ba/]
-* Portfolio: [ludivinseunda.tech]
+* Portfolio: [https://ludivinseunda.tech]
 * Email: ludivinseunda2@gmail.com
