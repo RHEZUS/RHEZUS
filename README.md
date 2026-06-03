@@ -4,7 +4,6 @@
 
 I build modern, production-ready applications and APIs that are maintainable, reliable, and built to last.
 
----
 
 ## 🧩 What I Build
 
@@ -14,7 +13,6 @@ I build modern, production-ready applications and APIs that are maintainable, re
 - Authentication & authorization systems  
 - Developer tools  
 
----
 
 ## 🧰 Core Technologies
 
@@ -30,7 +28,6 @@ I build modern, production-ready applications and APIs that are maintainable, re
 ### DevOps & Tools  
 `Docker` · `Git` · `Linux`
 
----
 
 ## 🔭 Areas of Interest
 
@@ -40,7 +37,6 @@ I build modern, production-ready applications and APIs that are maintainable, re
 - Cybersecurity  
 - SaaS products  
 
----
 
 ## 📌 Featured Projects
 
@@ -51,14 +47,12 @@ I build modern, production-ready applications and APIs that are maintainable, re
 
 > These projects reflect my approach to building clean, secure, and scalable software.
 
----
 
 ## 💡 What Drives Me
 
 I enjoy solving complex problems, designing clean systems, and writing code that delivers long-term value.  
 My goal is to build products that are scalable, useful, and impactful.
 
----
 
 ## 📫 Connect With Me
 
